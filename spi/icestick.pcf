@@ -1,0 +1,10 @@
+set_io --warn-no-port D1 99
+set_io --warn-no-port D2 98
+set_io --warn-no-port D3 97
+set_io --warn-no-port D4 96
+set_io --warn-no-port D5 95
+
+set_io --warn-no-port TR7 116
+set_io --warn-no-port TR8 117
+set_io --warn-no-port TR9 118
+set_io --warn-no-port TR10 119
